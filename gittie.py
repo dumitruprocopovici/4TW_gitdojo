@@ -7,3 +7,11 @@ def add(a, b):
 
 
 introduce()
+
+
+def joke():
+    print("Sfera sa sinucis prin spanzurare :)))")
+
+
+introduce()
+joke()
