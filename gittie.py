@@ -6,12 +6,14 @@ def add(a, b):
     return a + b
 
 
-introduce()
-
-
 def joke():
     print("Sfera sa sinucis prin spanzurare :)))")
 
 
+def shout():
+    print('AAAAAA')
+
+
 introduce()
 joke()
+shout()
